@@ -34,10 +34,10 @@
     </parent>
 
     <scm>
-        <url>https://github.com/wso2-extensions/identity-governance.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/identity-governance.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2-extensions/identity-governance.git</connection>
-        <tag>v1.1.0-SNAPSHOT</tag>
+        <url>https://github.com/Miranlfk/identity-governance.git</url>
+        <developerConnection>scm:git:https://github.com/Miranlfk/identity-governance.git</developerConnection>
+        <connection>scm:git:https://github.com/Miranlfk/identity-governance.git</connection>
+        <tag>HEAD</tag>
     </scm>
 
 
